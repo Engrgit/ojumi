@@ -1,5 +1,5 @@
 # ojumi
-Replicating my eyes with computer vision
+Replicating eyes with computer vision
 
 
 ![alt](./utils/ojumi.jpg)
