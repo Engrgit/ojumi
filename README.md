@@ -2,7 +2,7 @@
 Replicating my eyes with computer vision
 
 
-![alt](./logos/ereowo.jpg)
+![alt](./utils/ojumi.jpg)
 # ojumi - Replicating my eyes with computer vision
  
 
@@ -36,7 +36,7 @@ To kick off a Ojumi agent with a classic reinforcement learning environment, her
 More detailed tutorial will be presented at NeurIPS 2023 EXPO presentation (12/10/2023, 2 pm to 4 pm). Users can replace the environment with any real-world problems.
 
 ## Design and Features
-![alt](./logos/ereowo_banner.jpg)
+![alt](./utils/ojumi.jpg)
 Ojumi was built with a modular design so that industry practitioners or academic researchers can select any subset and flexibly combine features below to construct a Ereowo agent customized for their specific use cases. Ereowo offers a diverse set of unique features for production environments, including dynamic action spaces, offline learning, intelligent neural exploration, safe decision making, history summarization, and data augmentation.
 
 You can find many Ereowo agent candidates with mix-and-match set of reinforcement learning features in utils/scripts/benchmark_config.py
