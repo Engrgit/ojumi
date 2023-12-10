@@ -1,6 +1,6 @@
 
 ![alt](./utils/ojumi.jpg)
-# ojumi - Replicating my eyes with computer vision
+# ojumi - AI eyes 
  
 
 - v0.1 - ojumi beta-version is now released!
@@ -26,7 +26,7 @@ pip install -e .
 ```
 
 ### Quick Start
-To kick off a Ojumi agent with a classic reinforcement learning environment, here's a quick example.
+To kick off a Ojumi agent with a classic computer vision problem. Here's a quick example.
 ```
  pip instll ojumi
 ```
@@ -34,7 +34,7 @@ More detailed tutorial will be presented at NeurIPS 2023 EXPO presentation (12/1
 
 ## Design and Features
 ![alt](./utils/ojumi.jpg)
-Ojumi was built with a modular design so that industry practitioners or academic researchers can select any subset and flexibly combine features below to construct a Ereowo agent customized for their specific use cases. Ereowo offers a diverse set of unique features for production environments, including dynamic action spaces, offline learning, intelligent neural exploration, safe decision making, history summarization, and data augmentation.
+Ojumi was built with a modular design so that industry practitioners or academic researchers can select any subset and flexibly combine features below to construct a Ereowo agent customized for their specific use cases. Ojumi offers a diverse set of unique features for production environments, including dynamic action spaces, offline learning, intelligent neural exploration, safe decision making, history summarization, and data augmentation.
 
 You can find many Ereowo agent candidates with mix-and-match set of reinforcement learning features in utils/scripts/benchmark_config.py
 
