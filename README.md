@@ -31,6 +31,7 @@ pip install -e .
 ### Quick Start
 To kick off a Ojumi agent with a classic reinforcement learning environment, here's a quick example.
 ```
+ pip instll ojumi
 ```
 More detailed tutorial will be presented at NeurIPS 2023 EXPO presentation (12/10/2023, 2 pm to 4 pm). Users can replace the environment with any real-world problems.
 
