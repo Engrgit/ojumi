@@ -1,6 +1,6 @@
 
 ![alt](./utils/ojumi.jpg)
-# ojumi - AI eyes 
+# Ojumi - AI eyes 
  
 
 - v0.1 - ojumi beta-version is now released!
