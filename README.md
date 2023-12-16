@@ -58,7 +58,7 @@ Ojumi is in progress supporting real-world applications, including recommender s
 ## Comparison to Other Libraries
 <center>
 
-|Pearl Features | Pearl  | ReAgent (Superseded by Pearl) | RLLib | SB3|Tianshou | Dopamine |
+|Ojumi Features | Ojumi  | ReAgent (Superseded by Ojumi) | RLLib | SB3|Tianshou | Dopamine |
 |:-------------:|:------:|:-----------------------------:|:-----:|:--:|:-----:|:-----|
 |Modularity|✅|❌|❌|❌|❌|❌|
 |Dynamic Action Space|✅|✅|❌|❌|❌|❌|
