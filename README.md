@@ -30,7 +30,6 @@ To kick off a Ojumi agent with a classic computer vision problem. Here's a quick
 ```
  pip instll ojumi
 ```
-More detailed tutorial will be presented at NeurIPS 2023 EXPO presentation (12/10/2023, 2 pm to 4 pm). Users can replace the environment with any real-world problems.
 
 ## Design and Features
 ![alt](./utils/ojumi.jpg)
