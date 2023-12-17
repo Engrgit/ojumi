@@ -35,13 +35,13 @@ To kick off a Ojumi agent with a classic computer vision problem. Here's a quick
 ![alt](./utils/ojumi.jpg)
 Ojumi was built with a modular design so that industry practitioners or academic researchers can select any subset and flexibly combine features below to construct a Ereowo agent customized for their specific use cases. Ojumi offers a diverse set of unique features for production environments, including dynamic action spaces, offline learning, intelligent neural exploration, safe decision making, history summarization, and data augmentation.
 
-You can find many Ereowo agent candidates with mix-and-match set of reinforcement learning features in utils/scripts/benchmark_config.py
+
 
 ## Adoption in Real-world Applications
 Ojumi is in progress supporting real-world applications, including recommender systems, auction bidding system and creative selection. Each of them requires a subset of features offered by Pearl. To visualize the subset of features used by each of the applications above, see the table below.
 <center>
 
-|Pearl Features | Recommender Systems | Auction Bidding | Creative Selection |
+|Ojumi Features | Recommender Systems | Auction Bidding | Creative Selection |
 |:-------------:|:-------------------:|:---------------:|:------------------:|
 |Policy Learning| ✅ |✅|✅|
 |Intelligent Exploration|✅|✅ |✅|
