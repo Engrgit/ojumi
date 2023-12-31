@@ -38,7 +38,7 @@ Ojumi was built with a modular design so that industry practitioners or academic
 
 
 ## Adoption in Real-world Applications
-Ojumi is in progress supporting real-world applications, including recommender systems, auction bidding system and creative selection. Each of them requires a subset of features offered by Pearl. To visualize the subset of features used by each of the applications above, see the table below.
+Ojumi is in progress supporting real-world applications, including recommender systems, auction bidding system and creative selection. Each of them requires a subset of features offered by Ojumi. To visualize the subset of features used by each of the applications above, see the table below.
 <center>
 
 |Ojumi Features | Recommender Systems | Auction Bidding | Creative Selection |
